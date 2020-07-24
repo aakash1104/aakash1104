@@ -1,4 +1,4 @@
-## Hi There! :wave::smile: ##
+## Hi There! :wave: :smile: ##
 
 I'm currently a graduate student at [UC Davis](https://cs.ucdavis.edu). I also
 got my bachelor's degree here! I love all things tech and love writing code.
