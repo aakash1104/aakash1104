@@ -21,4 +21,4 @@ I'm always looking for my next opportunity! Feel free to reach out to me at
 `aakprabhu [at] ucdavis [dot] edu` if you have questions or just want to chat!
 :smile:
 
-_Hakuna Matata__
+_Hakuna Matata_
