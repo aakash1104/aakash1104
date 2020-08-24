@@ -7,8 +7,8 @@ for everybody else to use :computer:
 
 I'm always looking for new opportunities to evolve my skill set. Previously, I
 was a Software Engineering Intern at [LendingClub](https://www.lendingclub.com)
-where I had the great fortune to have worked alongside with some amazing (and
-happy) people!
+in San Francisco where I had the great fortune to have worked alongside with 
+some amazing (and happy) people!
 
 The _intersection_ of mathematics and computer science also fascinates me:
 especially **solving sudoku puzzles** (do people even do this anymore?) because
