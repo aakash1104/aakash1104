@@ -21,4 +21,7 @@ I'm always looking for my next opportunity! Feel free to reach out to me at
 `aakprabhu [at] ucdavis [dot] edu` if you have questions or just want to chat!
 :smile:
 
+![Aakash's Github Stats](https://github-readme-stats.vercel.app/api?username=aakash1104&show_icons=true)
+
+
 _Hakuna Matata_
